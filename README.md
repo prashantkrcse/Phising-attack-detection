@@ -1,7 +1,5 @@
 # Phishing Attack Detection using Machine Learning
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 ## Description
 
 Phishing Attack Detection using Machine Learning is a project that aims to build an efficient and accurate system for distinguishing between legitimate websites and phishing websites. The project leverages various Machine Learning algorithms and feature engineering techniques to develop a robust detection model.
@@ -40,8 +38,6 @@ In the evaluation.ipynb Jupyter Notebook, we assess the performance of the ML mo
 ## Contributing
 Contributions to this project are welcome! If you find any issues or want to enhance the detection system, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Additional Information 
 The Phishing Attack Detection project is an ongoing effort, and we plan to continuously improve the ML model's accuracy and efficiency based on user feedback and emerging phishing attack trends. Your participation and feedback are valuable to us, and we encourage you to contribute to the project's development.
@@ -49,3 +45,5 @@ The Phishing Attack Detection project is an ongoing effort, and we plan to conti
 If you have any questions or need assistance with the project, feel free to reach out to the project maintainers or open an issue on the repository.
 
 Let's make the internet a safer place together with this innovative ML-based phishing attack detection project!
+
+By: Prashant Kumar
